@@ -6,7 +6,7 @@ This is my collection of pet projects. Below you can see general information abo
 | ----------------------------------- | --------------------------------------------------------- | ------------------ |:---------------:| ---- |:-------:|:---------:|
 | *TBA*                               | -                                                         | -                  |        -        | 2023 |    -    |     -     |
 | *TBA*                               | -                                                         | -                  |        -        | 2023 |    -    |     -     |
-| *TBA*                               | -                                                         | -                  |        -        | 2023 |    -    |     -     |
+| [Slaphappy Bird](#slaphappy-bird)   | [Source Code](https://gitlab.com/oleglnk/slaphappy-bird)  | Lua, LOVE 2D       | CC BY-NC-SA 4.0 | 2023 |   1.2   |  Support  |
 | [Pong](#pong)                       | [Source Code](https://gitlab.com/oleglnk/pong)            | Lua, LOVE 2D       | CC BY-NC-SA 4.0 | 2023 |   2.0   |  Support  |
 | [Sudoku](#sudoku)                   | [Source Code](https://gitlab.com/oleglnk/sudoku)          | Pascal, Lazarus    |       MIT       | 2023 |   1.0   | Suspended |
 | [Tic-Tac-Toe](#tic-tac-toe)         | [Source Code](https://gitlab.com/oleglnk/tic-tac-toe)     | C                  |       MIT       | 2022 |   1.0   | Suspended |
@@ -22,6 +22,11 @@ Status:
 
 
 # Description
+
+## Slaphappy Bird
+
+**Under Construction**
+
 
 ## Pong
 
