@@ -51,7 +51,16 @@ Status:
 
 ## Battleship game
 
-**Under Construction**
+This is implementation for Battleship game.
+It was created a long time ago for someone's (not mine, I remember whom, but I won't tell anyone) educational purposes.
+I had big plans for this project and all other projects which I created, but I realized that I don't want to change them at all.
+
+If you want to download and test it, then you should go to project's [release section](https://github.com/oleglnk/battleship-game/releases) on Github.
+
+**Screenshots**
+
+<img src="/screenshots/battleship-game/main-menu.jpg" alt="Battleship game: Main Menu" width="400"/> <img src="/screenshots/battleship-game/score-table.jpg" alt="Battleship game: Score table" width="400"/>
+<img src="/screenshots/battleship-game/gameplay-1.jpg" alt="Battleship game: Gameplay 1" width="400"/> <img src="/screenshots/battleship-game/gameplay-2.jpg" alt="Battleship game:  Gameplay 1" width="400"/>
 
 
 ## Fractals
@@ -60,7 +69,7 @@ These are my old projects about fractals, that I creaated for someone at college
 There were a lot of projects about fractals, but I have only two of them now.
 I'm very upset because you can make fractals very beautiful using different settings e.g. Julia Set.
 
-If you want to download them go to project's [release section](https://github.com/oleglnk/fractals/releases) on Github.
+If you want to download and test them, then you should go to project's [release section](https://github.com/oleglnk/fractals/releases) on Github.
 
 **Screenshots**
 
@@ -73,10 +82,9 @@ If you want to download them go to project's [release section](https://github.co
 This my old projects about audio editing. They were created as course and diploma projects at college.
 I look at code and it is awful. However they bring up a lot of good memories of those times. So I decided don't touch them.
 
-If you want to download them go to project's [release section](https://gitlab.com/oleglnk/audio-editors/-/releases) on Github.
+If you want to download them go to project's [release section](https://github.com/oleglnk/audio-editors/releases) on Github.
 
 **Screenshots**
 
-<img src="/screenshots/audio-editors/audio-creator-1.jpg" alt="Audio Creator 1" width="400"/>
-<img src="/screenshots/audio-editors/audio-creator-2.jpg" alt="Audio Creator 2" width="400"/>
 <img src="/screenshots/audio-editors/sound-editor.png" alt="Sound Editor" width="400"/>
+<img src="/screenshots/audio-editors/audio-creator-1.jpg" alt="Audio Creator 1" width="400"/> <img src="/screenshots/audio-editors/audio-creator-2.jpg" alt="Audio Creator 2" width="400"/>
