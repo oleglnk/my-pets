@@ -56,7 +56,16 @@ Status:
 
 ## Fractals
 
-**Under Construction**
+These are my old projects about fractals, that I creaated for someone at college.
+There were a lot of projects about fractals, but I have only two of them now.
+I'm very upset because you can make fractals very beautiful using different settings e.g. Julia Set.
+
+If you want to download them go to project's [release section](https://github.com/oleglnk/fractals/releases) on Github.
+
+**Screenshots**
+
+<img src="/screenshots/fractals/fractal-julia-set-1.png" alt="Fractal Julia set 1" width="400"/> <img src="/screenshots/fractals/fractal-julia-set-2.png" alt="Fractal Julia set 2" width="400"/>
+<img src="/screenshots/fractals/fractal-sierpinski-curve-1.png" alt="Fractal Sierpinski curve 2" width="400"/> <img src="/screenshots/fractals/fractal-sierpinski-curve-2.png" alt="Fractal Sierpinski curve 2" width="400"/>
 
 
 ## Audio Editors
