@@ -68,6 +68,6 @@ If you want to download them go to project's [release section](https://gitlab.co
 
 **Screenshots**
 
-<img src="/screenshots/audio-creator-1.jpg" alt="Audio Creator 1" width="400"/>
-<img src="/screenshots/audio-creator-2.jpg" alt="Audio Creator 2" width="400"/>
-<img src="/screenshots/sound-editor.png" alt="Sound Editor" width="400"/>
+<img src="/screenshots/audio-editors/audio-creator-1.jpg" alt="Audio Creator 1" width="400"/>
+<img src="/screenshots/audio-editors/audio-creator-2.jpg" alt="Audio Creator 2" width="400"/>
+<img src="/screenshots/audio-editors/sound-editor.png" alt="Sound Editor" width="400"/>
