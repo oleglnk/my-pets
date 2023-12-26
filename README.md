@@ -26,7 +26,16 @@ Status:
 
 ## Slaphappy Bird
 
-**Under Construction**
+This is educational project for Harvard CS50's Introduction to Game Development course.
+It is Fifty-bird (Flappy bird like) game which is used in Lecture 1 of course. It's written in `Lua` with `LOVE 2D` framework, 
+`push` and `class` libraries. It's based on [original Harvard's implementation](https://github.com/games50/fifty-bird), 
+but I implemented it by myself step-by-step for better Lua and Game structure understanding.
+
+You can download game for play on releases page on [Gitlab](https://gitlab.com/oleglnk/slaphappy-bird/-/releases) or [Github](https://github.com/oleglnk/my-pets/releases/tag/slaphappy-bird).
+
+<img src="https://gitlab.com/oleglnk/slaphappy-bird/-/raw/main/screenshots/welcome.png" alt="Slaphappy bird: welcome screen" width="400"/> <img src="https://gitlab.com/oleglnk/slaphappy-bird/-/raw/main/screenshots/gameplay.png" alt="Slaphappy bird: gameplay" width="400"/>
+<img src="https://gitlab.com/oleglnk/slaphappy-bird/-/raw/main/screenshots/pause.png" alt="Slaphappy bird: pause state" width="400"/> <img src="https://gitlab.com/oleglnk/slaphappy-bird/-/raw/main/screenshots/score.png" alt="Slaphappy bird: score state" width="400"/>
+
 
 
 ## Pong
@@ -36,12 +45,13 @@ It is Pong game which is used in Lecture 0 of course. It's written in `Lua` with
 `push` and `class` libraries. It's based on [original Harvard's implementation](https://github.com/games50/pong), 
 but I implemented it by myself step-by-step for better Lua and Game structure understanding.
 
-You can dowload game for play on releases page on [Gitlab](https://gitlab.com/oleglnk/pong/-/releases) or [Github](https://github.com/oleglnk/my-pets/releases/tag/pong).
+You can download game for play on releases page on [Gitlab](https://gitlab.com/oleglnk/pong/-/releases) or [Github](https://github.com/oleglnk/my-pets/releases/tag/pong).
 
 **Screenshots**
 
 <img src="https://gitlab.com/oleglnk/pong/-/raw/main/screenshots/menu.png" alt="menu" width="400"/> <img src="https://gitlab.com/oleglnk/pong/-/raw/main/screenshots/1_player_game.png" alt="1 player game" width="400"/>
 <img src="https://gitlab.com/oleglnk/pong/-/raw/main/screenshots/2_player_game.png" alt="2 player game" width="400"/> <img src="https://gitlab.com/oleglnk/pong/-/raw/main/screenshots/game_classic_win.png" alt="game classic win" width="400"/>
+
 
 
 ## Sudoku
@@ -56,9 +66,11 @@ If you want to download and test it, then you should go to project's [release se
 <img src="https://gitlab.com/oleglnk/sudoku/-/raw/main/screenshots/game_failure.png" alt="Sudoku game failure" width="400"/> <img src="https://gitlab.com/oleglnk/sudoku/-/raw/main/screenshots/game_success.png" alt="Sudoku game success" width="400"/>
 
 
+
 ## Tic-Tac-Toe
 
 **Under Construction**
+
 
 
 ## Tetris
