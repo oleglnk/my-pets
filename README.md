@@ -82,8 +82,8 @@ This is one more impementation of popular game Tic-Tac-Toe written on C. This pr
 
 ### Screenshots
 
-<img src="/screenshots/tic-tac-toe/main-menu.jpg" alt="Tic-Tac-Toe: Main Menu"/> <img src="/screenshots/tic-tac-toe/versus-ai.jpg" alt="Tic-Tac-Toe: Versus Ai"/>
-<img src="/screenshots/tic-tac-toe/gameplay.jpg" alt="Tic-Tac-Toe: Gameplay" width="400"/> <img src="/screenshots/tic-tac-toe/credits.jpg" alt="Tic-Tac-Toe: Credits" width="511"/>
+<img src="/screenshots/tic-tac-toe/main-menu.jpg" alt="Tic-Tac-Toe: Main Menu" width="500"/> <img src="/screenshots/tic-tac-toe/versus-ai.jpg" alt="Tic-Tac-Toe: Versus Ai" width="250"/>
+<img src="/screenshots/tic-tac-toe/gameplay.jpg" alt="Tic-Tac-Toe: Gameplay" width="330"/> <img src="/screenshots/tic-tac-toe/credits.jpg" alt="Tic-Tac-Toe: Credits" width="422"/>
 
 
 
@@ -146,4 +146,6 @@ I look at code and it is awful. However they bring up a lot of good memories of 
 
 ### Screenshots
 
-<img src="/screenshots/audio-editors/sound-editor.png" alt="Sound Editor" width="400"/> <img src="/screenshots/audio-editors/audio-creator-1.jpg" alt="Audio Creator 1" width="400"/> <img src="/screenshots/audio-editors/audio-creator-2.jpg" alt="Audio Creator 2" width="400"/>
+<img src="/screenshots/audio-editors/sound-editor.png" alt="Sound Editor" width="400"/>
+
+<img src="/screenshots/audio-editors/audio-creator-1.jpg" alt="Audio Creator 1" width="400"/> <img src="/screenshots/audio-editors/audio-creator-2.jpg" alt="Audio Creator 2" width="400"/>
