@@ -69,7 +69,15 @@ If you want to download and test it, then you should go to project's [release se
 
 ## Tic-Tac-Toe
 
-**Under Construction**
+This is one more impementation of popular game Tic-Tac-Toe written on C. This project was created for educational proposes (first of all for me and maybe someone else who will be interested in this) and experiments. The most interesting part of the project for programmers is minimax algorithm
+[wiki link](https://en.wikipedia.org/wiki/Minimax). Also the project supports Windows and Linux.
+
+If you want to download and test it, then you should go to project's [release section](https://github.com/oleglnk/tic-tac-toe/releases) on Github.
+
+**Screenshots**
+
+<img src="/screenshots/tic-tac-toe/main-manu.jpg" alt="Tic-Tac-Toe: Main Menu" width="400"/> <img src="/screenshots/tic-tac-toe/versus-ai.jpg" alt="Tic-Tac-Toe: Versus Ai" width="400"/>
+<img src="/screenshots/tic-tac-toe/gameplay.jpg" alt="Tic-Tac-Toe: Gameplay" width="400"/> <img src="/screenshots/tic-tac-toe/credits.jpg" alt="Tic-Tac-Toe: Credits" width="400"/>
 
 
 
