@@ -74,16 +74,16 @@ This is one more impementation of Sudoku written on Lazarus/Free Pascal. This is
 
 ## Tic-Tac-Toe
 
-[![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=color)](https://gitlab.com/oleglnk/audio-editors/-/releases)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/oleglnk/my-pets/releases/tag/AudioEditors)
+[![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=color)](https://gitlab.com/oleglnk/tic-tac-toe/-/releases)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/oleglnk/my-pets/releases/tag/TicTacToe)
 
 This is one more impementation of popular game Tic-Tac-Toe written on C. This project was created for educational proposes (first of all for me and maybe someone else who will be interested in this) and experiments. The most interesting part of the project for programmers is minimax algorithm
 [wiki link](https://en.wikipedia.org/wiki/Minimax). Also the project supports Windows and Linux.
 
 ### Screenshots
 
-<img src="/screenshots/tic-tac-toe/main-menu.jpg" alt="Tic-Tac-Toe: Main Menu" width="400"/> <img src="/screenshots/tic-tac-toe/versus-ai.jpg" alt="Tic-Tac-Toe: Versus Ai" width="400"/>
-<img src="/screenshots/tic-tac-toe/gameplay.jpg" alt="Tic-Tac-Toe: Gameplay" width="400"/> <img src="/screenshots/tic-tac-toe/credits.jpg" alt="Tic-Tac-Toe: Credits" width="400"/>
+<img src="/screenshots/tic-tac-toe/main-menu.jpg" alt="Tic-Tac-Toe: Main Menu"/> <img src="/screenshots/tic-tac-toe/versus-ai.jpg" alt="Tic-Tac-Toe: Versus Ai"/>
+<img src="/screenshots/tic-tac-toe/gameplay.jpg" alt="Tic-Tac-Toe: Gameplay" width="400"/> <img src="/screenshots/tic-tac-toe/credits.jpg" alt="Tic-Tac-Toe: Credits" width="511"/>
 
 
 
@@ -115,7 +115,7 @@ I had big plans for this project and all other projects which I created, but I r
 
 ### Screenshots
 
-<img src="/screenshots/battleship-game/main-menu.jpg" alt="Battleship game: Main Menu" width="400"/> <img src="/screenshots/battleship-game/score-table.jpg" alt="Battleship game: Score table" width="400"/>
+<img src="/screenshots/battleship-game/main-menu.jpg" alt="Battleship game: Main Menu" width="400"/> <img src="/screenshots/battleship-game/score-table.jpg" alt="Battleship game: Score table" width="380"/>
 <img src="/screenshots/battleship-game/gameplay-1.jpg" alt="Battleship game: Gameplay 1" width="400"/> <img src="/screenshots/battleship-game/gameplay-2.jpg" alt="Battleship game:  Gameplay 1" width="400"/>
 
 
@@ -146,5 +146,4 @@ I look at code and it is awful. However they bring up a lot of good memories of 
 
 ### Screenshots
 
-<img src="/screenshots/audio-editors/sound-editor.png" alt="Sound Editor" width="400"/>
-<img src="/screenshots/audio-editors/audio-creator-1.jpg" alt="Audio Creator 1" width="400"/> <img src="/screenshots/audio-editors/audio-creator-2.jpg" alt="Audio Creator 2" width="400"/>
+<img src="/screenshots/audio-editors/sound-editor.png" alt="Sound Editor" width="400"/> <img src="/screenshots/audio-editors/audio-creator-1.jpg" alt="Audio Creator 1" width="400"/> <img src="/screenshots/audio-editors/audio-creator-2.jpg" alt="Audio Creator 2" width="400"/>
