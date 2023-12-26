@@ -26,6 +26,9 @@ Status:
 
 ## Slaphappy Bird
 
+[![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=color)](https://gitlab.com/oleglnk/slaphappy-bird/-/releases)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/oleglnk/my-pets/releases/tag/SlaphappyBird)
+
 This is educational project for Harvard CS50's Introduction to Game Development course.
 It is Fifty-bird (Flappy bird like) game which is used in Lecture 1 of course. It's written in `Lua` with `LOVE 2D` framework, 
 `push` and `class` libraries. It's based on [original Harvard's implementation](https://github.com/games50/fifty-bird), 
@@ -36,14 +39,12 @@ but I implemented it by myself step-by-step for better Lua and Game structure un
 <img src="https://gitlab.com/oleglnk/slaphappy-bird/-/raw/main/screenshots/welcome.png" alt="Slaphappy bird: welcome screen" width="400"/> <img src="https://gitlab.com/oleglnk/slaphappy-bird/-/raw/main/screenshots/gameplay.png" alt="Slaphappy bird: gameplay" width="400"/>
 <img src="https://gitlab.com/oleglnk/slaphappy-bird/-/raw/main/screenshots/pause.png" alt="Slaphappy bird: pause state" width="400"/> <img src="https://gitlab.com/oleglnk/slaphappy-bird/-/raw/main/screenshots/score.png" alt="Slaphappy bird: score state" width="400"/>
 
-### Downloads
-
-[![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=color)](https://gitlab.com/oleglnk/slaphappy-bird/-/releases)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/oleglnk/my-pets/releases/tag/SlaphappyBird)
-
 
 
 ## Pong
+
+[![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=color)](https://gitlab.com/oleglnk/pong/-/releases)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/oleglnk/my-pets/releases/tag/Pong)
 
 This is educational project for Harvard CS50's Introduction to Game Development course.
 It is Pong game which is used in Lecture 0 of course. It's written in `Lua` with `LOVE 2D` framework, 
@@ -55,31 +56,26 @@ but I implemented it by myself step-by-step for better Lua and Game structure un
 <img src="https://gitlab.com/oleglnk/pong/-/raw/main/screenshots/menu.png" alt="menu" width="400"/> <img src="https://gitlab.com/oleglnk/pong/-/raw/main/screenshots/1_player_game.png" alt="1 player game" width="400"/>
 <img src="https://gitlab.com/oleglnk/pong/-/raw/main/screenshots/2_player_game.png" alt="2 player game" width="400"/> <img src="https://gitlab.com/oleglnk/pong/-/raw/main/screenshots/game_classic_win.png" alt="game classic win" width="400"/>
 
-### Downloads
-
-[![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=color)](https://gitlab.com/oleglnk/pong/-/releases)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/oleglnk/my-pets/releases/tag/Pong)
 
 
 ## Sudoku
 
-This is one more impementation of Sudoku written on Lazarus/Free Pascal. This is experimental pet-project.
+[![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=color)](https://gitlab.com/oleglnk/sudoku/-/releases)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/oleglnk/my-pets/releases/tag/Sudoku)
 
-If you want to download and test it, then you should go to project's [release section](https://github.com/oleglnk/sudoku/releases) on Github.
+This is one more impementation of Sudoku written on Lazarus/Free Pascal. This is experimental pet-project.
 
 ### Screenshots
 
 <img src="https://gitlab.com/oleglnk/sudoku/-/raw/main/screenshots/game.png" alt="Sudoku game" width="400"/> <img src="https://gitlab.com/oleglnk/sudoku/-/raw/main/screenshots/game_in_progress.png" alt="Sudoku game in progress" width="400"/>
 <img src="https://gitlab.com/oleglnk/sudoku/-/raw/main/screenshots/game_failure.png" alt="Sudoku game failure" width="400"/> <img src="https://gitlab.com/oleglnk/sudoku/-/raw/main/screenshots/game_success.png" alt="Sudoku game success" width="400"/>
 
-### Downloads
-
-[![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=color)](https://gitlab.com/oleglnk/sudoku/-/releases)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/oleglnk/my-pets/releases/tag/Sudoku)
-
 
 
 ## Tic-Tac-Toe
+
+[![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=color)](https://gitlab.com/oleglnk/audio-editors/-/releases)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/oleglnk/my-pets/releases/tag/AudioEditors)
 
 This is one more impementation of popular game Tic-Tac-Toe written on C. This project was created for educational proposes (first of all for me and maybe someone else who will be interested in this) and experiments. The most interesting part of the project for programmers is minimax algorithm
 [wiki link](https://en.wikipedia.org/wiki/Minimax). Also the project supports Windows and Linux.
@@ -89,14 +85,11 @@ This is one more impementation of popular game Tic-Tac-Toe written on C. This pr
 <img src="/screenshots/tic-tac-toe/main-menu.jpg" alt="Tic-Tac-Toe: Main Menu" width="400"/> <img src="/screenshots/tic-tac-toe/versus-ai.jpg" alt="Tic-Tac-Toe: Versus Ai" width="400"/>
 <img src="/screenshots/tic-tac-toe/gameplay.jpg" alt="Tic-Tac-Toe: Gameplay" width="400"/> <img src="/screenshots/tic-tac-toe/credits.jpg" alt="Tic-Tac-Toe: Credits" width="400"/>
 
-### Downloads
-
-[![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=color)](https://gitlab.com/oleglnk/tic-tac-toe)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/oleglnk/my-pets/releases/tag/TicTacToe)
-
 
 
 ## Tetris
+
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/oleglnk/my-pets/releases/tag/Tetris)
 
 This a tetris for Windows terminal. It was a task for job interview. However source code was lost. Thanks to my friend who saved binary file when tested it.
 Controls:
@@ -109,13 +102,12 @@ Controls:
 
 <img src="/screenshots/tetris/gameplay-1.png" alt="Tetris: Game start" /> <img src="/screenshots/tetris/gameplay-2.png" alt="Tetris: Game restart"/>
 
-### Downloads
-
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/oleglnk/my-pets/releases/tag/Tetris)
-
 
 
 ## Battleship game
+
+[![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=color)](https://gitlab.com/oleglnk/battleship-game/-/releases)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/oleglnk/my-pets/releases/tag/Battleship)
 
 This is implementation for Battleship game.
 It was created a long time ago for someone's (not mine, I remember whom, but I won't tell anyone) educational purposes.
@@ -126,14 +118,12 @@ I had big plans for this project and all other projects which I created, but I r
 <img src="/screenshots/battleship-game/main-menu.jpg" alt="Battleship game: Main Menu" width="400"/> <img src="/screenshots/battleship-game/score-table.jpg" alt="Battleship game: Score table" width="400"/>
 <img src="/screenshots/battleship-game/gameplay-1.jpg" alt="Battleship game: Gameplay 1" width="400"/> <img src="/screenshots/battleship-game/gameplay-2.jpg" alt="Battleship game:  Gameplay 1" width="400"/>
 
-### Downloads
-
-[![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=color)](https://gitlab.com/oleglnk/battleship-game/-/releases)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/oleglnk/my-pets/releases/tag/Battleship)
-
 
 
 ## Fractals
+
+[![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=color)](https://gitlab.com/oleglnk/fractals/-/releases)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/oleglnk/my-pets/releases/tag/Fractals)
 
 These are my old projects about fractals, that I creaated for someone at college.
 There were a lot of projects about fractals, but I have only two of them now.
@@ -144,14 +134,12 @@ I'm very upset because you can make fractals very beautiful using different sett
 <img src="/screenshots/fractals/fractal-julia-set-1.png" alt="Fractal Julia set 1" width="400"/> <img src="/screenshots/fractals/fractal-julia-set-2.png" alt="Fractal Julia set 2" width="400"/>
 <img src="/screenshots/fractals/fractal-sierpinski-curve-1.png" alt="Fractal Sierpinski curve 2" width="400"/> <img src="/screenshots/fractals/fractal-sierpinski-curve-2.png" alt="Fractal Sierpinski curve 2" width="400"/>
 
-### Downloads
-
-[![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=color)](https://gitlab.com/oleglnk/fractals/-/releases)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/oleglnk/my-pets/releases/tag/Fractals)
-
 
 
 ## Audio Editors
+
+[![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=color)](https://gitlab.com/oleglnk/audio-editors/-/releases)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/oleglnk/my-pets/releases/tag/AudioEditors)
 
 This my old projects about audio editing. They were created as course and diploma projects at college.
 I look at code and it is awful. However they bring up a lot of good memories of those times. So I decided don't touch them.
@@ -160,8 +148,3 @@ I look at code and it is awful. However they bring up a lot of good memories of 
 
 <img src="/screenshots/audio-editors/sound-editor.png" alt="Sound Editor" width="400"/>
 <img src="/screenshots/audio-editors/audio-creator-1.jpg" alt="Audio Creator 1" width="400"/> <img src="/screenshots/audio-editors/audio-creator-2.jpg" alt="Audio Creator 2" width="400"/>
-
-### Downloads
-
-[![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=color)](https://gitlab.com/oleglnk/audio-editors/-/releases)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/oleglnk/my-pets/releases/tag/AudioEditors)
