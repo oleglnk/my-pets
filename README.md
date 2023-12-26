@@ -31,7 +31,17 @@ Status:
 
 ## Pong
 
-**Under Construction**
+This is educational project for Harvard CS50's Introduction to Game Development course.
+It is Pong game which is used in Lecture 0 of course. It's written in `Lua` with `LOVE 2D` framework, 
+`push` and `class` libraries. It's based on [original Harvard's implementation](https://github.com/games50/pong), 
+but I implemented it by myself step-by-step for better Lua and Game structure understanding.
+
+You can dowload game for play on releases page on [Gitlab](https://gitlab.com/oleglnk/pong/-/releases) or [Github](https://github.com/oleglnk/my-pets/releases/tag/pong).
+
+**Screenshots**
+
+<img src="https://gitlab.com/oleglnk/pong/-/raw/main/screenshots/menu.png" alt="menu" width="400"/> <img src="https://gitlab.com/oleglnk/pong/-/raw/main/screenshots/1_player_game.png" alt="1 player game" width="400"/>
+<img src="https://gitlab.com/oleglnk/pong/-/raw/main/screenshots/2_player_game.png" alt="2 player game" width="400"/> <img src="https://gitlab.com/oleglnk/pong/-/raw/main/screenshots/game_classic_win.png" alt="game classic win" width="400"/>
 
 
 ## Sudoku
@@ -60,7 +70,11 @@ Controls:
 - S - move down faster
 - Space - rotate
 
+**Screenshots**
+
 <img src="/screenshots/tetris/gameplay-1.png" alt="Tetris: Game start" /> <img src="/screenshots/tetris/gameplay-2.png" alt="Tetris: Game restart"/>
+
+
 
 ## Battleship game
 
@@ -76,6 +90,7 @@ If you want to download and test it, then you should go to project's [release se
 <img src="/screenshots/battleship-game/gameplay-1.jpg" alt="Battleship game: Gameplay 1" width="400"/> <img src="/screenshots/battleship-game/gameplay-2.jpg" alt="Battleship game:  Gameplay 1" width="400"/>
 
 
+
 ## Fractals
 
 These are my old projects about fractals, that I creaated for someone at college.
@@ -88,6 +103,7 @@ If you want to download and test them, then you should go to project's [release 
 
 <img src="/screenshots/fractals/fractal-julia-set-1.png" alt="Fractal Julia set 1" width="400"/> <img src="/screenshots/fractals/fractal-julia-set-2.png" alt="Fractal Julia set 2" width="400"/>
 <img src="/screenshots/fractals/fractal-sierpinski-curve-1.png" alt="Fractal Sierpinski curve 2" width="400"/> <img src="/screenshots/fractals/fractal-sierpinski-curve-2.png" alt="Fractal Sierpinski curve 2" width="400"/>
+
 
 
 ## Audio Editors
