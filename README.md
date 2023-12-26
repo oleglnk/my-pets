@@ -36,7 +36,13 @@ Status:
 
 ## Sudoku
 
-**Under Construction**
+This is one more impementation of Sudoku written on Lazarus/Free Pascal. This is experimental pet-project.
+
+If you want to download and test it, then you should go to project's [release section](https://github.com/oleglnk/sudoku/releases) on Github.
+
+**Screenshots**
+<img src="https://gitlab.com/oleglnk/sudoku/-/raw/main/screenshots/game.png" alt="Sudoku game" width="400"/> <img src="https://gitlab.com/oleglnk/sudoku/-/raw/main/screenshots/game_in_progress.png" alt="Sudoku game in progress" width="400"/>
+<img src="https://gitlab.com/oleglnk/sudoku/-/raw/main/screenshots/game_failure.png" alt="Sudoku game failure" width="400"/> <img src="https://gitlab.com/oleglnk/sudoku/-/raw/main/screenshots/game_success.png" alt="Sudoku game success" width="400"/>
 
 
 ## Tic-Tac-Toe
