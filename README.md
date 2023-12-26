@@ -46,8 +46,14 @@ Status:
 
 ## Tetris
 
-**Under Construction**
+This a tetris for Windows terminal. It was a task for job interview. However source code was lost. Thanks to my friend who saved binary file when tested it.
+Controls:
+- A - move left
+- D - move right
+- S - move down faster
+- Space - Rotate
 
+<img src="/screenshots/tetris/gameplay-1.png" alt="Tetris: Game start" width="400"/> <img src="/screenshots/tetris/gameplay-2.png" alt="Tetris: Game restart"/>
 
 ## Battleship game
 
