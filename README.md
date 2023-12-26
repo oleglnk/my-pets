@@ -51,9 +51,9 @@ Controls:
 - A - move left
 - D - move right
 - S - move down faster
-- Space - Rotate
+- Space - rotate
 
-<img src="/screenshots/tetris/gameplay-1.png" alt="Tetris: Game start" width="400"/> <img src="/screenshots/tetris/gameplay-2.png" alt="Tetris: Game restart"/>
+<img src="/screenshots/tetris/gameplay-1.png" alt="Tetris: Game start" /> <img src="/screenshots/tetris/gameplay-2.png" alt="Tetris: Game restart"/>
 
 ## Battleship game
 
